@@ -1,0 +1,47 @@
+h1{
+  color: #00cc00;
+  margin:30px;
+  font-size:50px;
+  background-color: brown;
+}
+
+textarea{
+  margin-left:350px;
+}
+nav button{
+  background-color:brown;
+  border:Solid;
+  padding:10px;
+}
+h2{
+  margin:30px;
+  font-size:40px;
+  background-color:brown;
+}
+nav{
+  margin-left:350px;
+
+}
+nav a{
+  background-color:brown;
+  border:Solid;
+  padding:10px;
+}
+ul{
+  border:Solid;
+  background-color:brown;
+  margin:30px;
+  list-style-type: none;
+}
+ul li{
+  font-size: 30px;
+  padding: 20px
+}
+body {
+  background-image: url("http://tinyurl.com/j2gteu5");
+}
+iframe{
+  position:absolute;
+   left:300px;
+   bottom:150px;
+}
